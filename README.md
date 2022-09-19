@@ -1,2 +1,2 @@
-# dio-desafio-github
-Primeiro desafio Dio
+# Desafio Git/Github - DIO
+Primeiro desafio DIO
